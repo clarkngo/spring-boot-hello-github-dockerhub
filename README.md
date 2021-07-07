@@ -1,1 +1,1 @@
-# spring-boot-hello-github-dockerhub
+# spring-hello-github-dockerhub
